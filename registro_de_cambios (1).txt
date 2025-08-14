@@ -1,0 +1,18 @@
+Registro de Cambios - Proyecto Sistema Financiero Empresarial
+
+v1.0 -> v2.0 (10/08/2025)
+- RF-01: Se añadió validación de formato de correo electrónico.
+- RF-02: Se incluyó opción de pagos con código QR.
+- RF-03: Reportes financieros incluyen balance general.
+- RF-04: Nuevo requerimiento para notificaciones automáticas por correo.
+- RNF-02: Se redujo el tiempo máximo de respuesta a 2 segundos.
+- RNF-03: Se añadió cifrado HTTPS para datos en tránsito.
+
+v2.0 -> v3.0 (12/08/2025)
+- RF-01: Se añadió validación de identidad en línea y verificación de documentos.
+- RF-02: Se añadió soporte para billeteras electrónicas.
+- RF-03: Reportes incluyen datos trimestrales y gráficos comparativos.
+- RF-04: Notificaciones personalizadas también por SMS.
+- RF-05: Nuevo módulo de gestión de usuarios con roles y permisos.
+- RNF-03: Se incluyó cifrado en reposo además de en tránsito.
+- RNF-04: Se añadió sistema de auditoría de acciones.
